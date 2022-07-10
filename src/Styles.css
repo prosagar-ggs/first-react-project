@@ -1,0 +1,22 @@
+.header{
+    background-color: rgb(0, 76, 255);
+    text-align: center;
+}
+.header h1{
+    color: white;
+    margin:0;
+}
+.menu a{
+    color: aquamarine;
+    margin-right: 5px;
+}
+.about img{
+    width: 300px;
+    
+}
+.about h1{
+    text-align: center;
+}
+.section h1{
+    text-align: center;
+}
